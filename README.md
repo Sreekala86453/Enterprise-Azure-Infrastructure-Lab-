@@ -95,7 +95,7 @@ Designed and deployed a multi-tier enterprise infrastructure environment in Micr
 ![WSUS](screenshots/wsus/wsus_console.png)
 
 ### File Server Access
-![HR Access](screenshots/file-server/access_htfiles_hruser.png)
+![HR Access](screenshots/file-server/access_hrfiles_hruser.png)
 
 ### IIS Website
 ![IIS](screenshots/web-sql/iis.png)
