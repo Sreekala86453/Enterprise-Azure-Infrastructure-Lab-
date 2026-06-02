@@ -11,4 +11,5 @@ This section contains final validation screenshots demonstrating that all infras
 - Drive Mapping
 - IIS Access
 - SQL Connectivity
+- SSH connectivity 
 - Backup Completion
