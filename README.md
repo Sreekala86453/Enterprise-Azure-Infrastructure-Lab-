@@ -8,7 +8,7 @@ Designed and deployed a multi-tier enterprise infrastructure environment in Micr
 
 ## Architecture Overview
 
-![Architecture Diagram](architecthure/azure-enterprise-architecture-diagram.png)
+![Architecture Diagram](architecthure/azure_enterprise_architecture_diagram.png)
 
 ---
 
