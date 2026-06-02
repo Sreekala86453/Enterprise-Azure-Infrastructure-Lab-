@@ -1,1 +1,1 @@
-All screenshots
+All screenshots displayed in this section
